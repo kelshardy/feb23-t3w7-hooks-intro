@@ -1,3 +1,12 @@
+# feb23-t3w7-hooks-intro
+
+Goals:
+	- ReactJS class-to-hooks conversion 
+	- Lifecycle methods as hooks 
+		- useEffect and lifecycle methods 
+	- State via hooks 
+	- BusinessCard component via hooks & props
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
